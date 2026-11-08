@@ -1,2 +1,2 @@
-# pjok-pintat
+# pjok-pintar
 Media Pembelajaran pjok
